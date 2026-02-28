@@ -55,9 +55,8 @@
         {
             "name": "crystall1nedev's server",
             "address": "https://anisette.crystall1ne.dev"
-        }
-    ]
-{
+        },
+        {
     "name": "bohdanov.dava's server",
 "address": "https://anisette-v3-server-v6xo.onrender.com"
 }
